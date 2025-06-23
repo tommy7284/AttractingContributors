@@ -3,3 +3,6 @@
 # List of singer
 - TWICE
 - ARASHI
+- m.o.v.e
+- naomi
+- TOMOO
