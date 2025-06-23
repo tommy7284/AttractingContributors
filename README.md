@@ -10,3 +10,4 @@
 - Leona
 - naomi
 - TOMOO
+- YOASOBI
