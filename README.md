@@ -4,5 +4,7 @@
 - TWICE
 - ARASHI
 - m.o.v.e
+- Leona
 - naomi
 - TOMOO
+
