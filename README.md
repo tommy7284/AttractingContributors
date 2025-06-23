@@ -4,7 +4,9 @@
 - TWICE
 - ARASHI
 - m.o.v.e
+- bigbang
 - Daiki Tsuneta
 - Leona
 - naomi
 - TOMOO
+
