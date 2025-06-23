@@ -3,3 +3,5 @@
 # List of singer
 - m.o.v.e
 - naomi
+- TOMOO
+
