@@ -11,3 +11,4 @@
 - naomi
 - TOMOO
 - YOASOBI
+- KOTOKO
