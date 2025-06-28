@@ -4,6 +4,7 @@
 - mokumoku
 - wairudoramenGONZO
 - Marugen
+- Ichiran
 - Tsubasa
 - Tori Style
 - Sampomen
