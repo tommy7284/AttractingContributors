@@ -12,3 +12,4 @@
 - TOMOO
 - YOASOBI
 - KOTOKO
+- NovelBright
