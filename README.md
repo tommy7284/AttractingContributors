@@ -13,3 +13,4 @@
 - YOASOBI
 - KOTOKO
 - NovelBright
+- Yuzu
